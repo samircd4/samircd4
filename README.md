@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+![Braydon's GitHub Banner](samthon.png)
 <h1 align="center">Hi 👋, I'm Samir Das</h1>
 <h3 align="center">A Python Djnago Developer From Bangladesh</h3>
 <br>
