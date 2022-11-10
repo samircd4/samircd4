@@ -2,7 +2,6 @@
 <h3 align="center">A Python Djnago developer from Bangladesh</h3>
 <br>
 <img align="right" alt="Coder GIF" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samircd4&label=Profile%20views&color=0e75b6&style=flat" alt="samircd4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samircd4" alt="samircd4" /></a> </p>
 
