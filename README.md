@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Samir Das</h1>
-<h3 align="center">A Python Djnago developer from Bangladesh</h3>
+<h3 align="center">A Python Djnago Developer From Bangladesh</h3>
 <br>
 <img align="right" alt="Coder GIF" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 <br>
 <br>
 
-<p align="left"> To be able to work in your organization as a Python Django Developer where I can fully utilize my skills in HTML, JavaScript, CSS, Python, Django </p>
+<h4 align="left"> To be able to work in your organization as a Python Django Developer where I can fully utilize my skills in HTML, JavaScript, CSS, Python, Django </h4>
 <br>
 <br>
 <br>
