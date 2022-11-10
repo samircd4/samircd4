@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<h4 align="left"> To be able to work in your organization as a Python Django Developer where I can fully utilize my skills in HTML, JavaScript, CSS, Python, Django </h4>
+<h4 align="left"> To be able to work in your organization as a Python Django Developer   where I can fully utilize my skills in HTML, JavaScript, CSS, Python, Django </h4>
 <br>
 <br>
 <br>
