@@ -6,13 +6,13 @@
 
 - 🏠 I’m from **Bangladesh**
 
-- 🔭 I’m currently working on [Test](Test)
+- 🔭 I’m currently working on <a href="https://github.com/samircd4/insta-clone">Instagram Clone Project</a>
 
 - 🌱 I’m currently learning **Django and Scrapy**
 
-- 👯 I’m looking to collaborate on [Test](Test)
+<!-- - 👯 I’m looking to collaborate on [Test](Test)
 
-- 🤝 I’m looking for help with [Test](Test)
+- 🤝 I’m looking for help with [Test](Test) -->
 
 - 👨‍💻 All of my projects are available at [www.samthon.com](www.samthon.com)
 
