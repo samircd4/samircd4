@@ -1,5 +1,7 @@
 ![Samir's GitHub Banner](samthon.png)
 <br>
+## 🙍🏻‍♂️ About Me
+<br>
 <img align="right" alt="Coder GIF" height=250 width=500 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🏠 I’m from **Bangladesh**
