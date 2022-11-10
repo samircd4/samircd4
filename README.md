@@ -4,8 +4,6 @@
 <img align="right" alt="Coder GIF" height=250 width=500 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 <br>
-<br>
-
 <h3 align="left"> To be able to work in your organization as a Python Django Developer   where I can fully utilize my skills in HTML, JavaScript, CSS, Python, Django </h3>
 <br>
 <br>
