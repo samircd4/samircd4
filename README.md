@@ -1,8 +1,8 @@
-![Braydon's GitHub Banner](samthon.png)
-<h1 align="center">Hi 👋, I'm Samir Das</h1>
-<h3 align="center">A Python Djnago Developer From Bangladesh</h3>
+![Samir's GitHub Banner](samthon.png)
 <br>
 <img align="right" alt="Coder GIF" height=250 width=500 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
+- 🏠 I’m from **Bangladesh**
 
 - 🔭 I’m currently working on [Test](Test)
 
