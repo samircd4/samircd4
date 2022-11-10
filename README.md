@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samircd4" alt="samircd4" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/samircd41" target="blank"><img src="https://img.shields.io/twitter/follow/samircd41?logo=twitter&style=for-the-badge" alt="samircd41" /></a> </p>
-
 - 🔭 I’m currently working on [Test](Test)
 
 - 🌱 I’m currently learning **Django and Scrapy**
