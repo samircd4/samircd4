@@ -2,21 +2,6 @@
 <h3 align="center">A Python Djnago developer from Bangladesh</h3>
 <br>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
-<br>
-<img alt="Coder GIF" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samircd4&label=Profile%20views&color=0e75b6&style=flat" alt="samircd4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samircd4" alt="samircd4" /></a> </p>
