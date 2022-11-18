@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [Test](Test) -->
 
-- 👨‍💻 All of my projects are available at [www.samthon.com](www.samthon.com)
+- 👨‍💻 All of my projects are available at [www.example.com](www.example.com)
 
 - 💬 Ask me about **Django, Python, Web Scraping**
 
