@@ -2,7 +2,7 @@
 <br>
 ## 🙍🏻‍♂️ About Me
 <br>
-<img align="right" alt="Coder GIF" height=250 width=500 src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif" />
+<img align="right" alt="Coder GIF" height=250 width=470 src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif" />
 
 
 - 🏠 I’m from **Bangladesh**
