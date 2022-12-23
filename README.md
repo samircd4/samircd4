@@ -7,7 +7,7 @@
 
 - 🏠 I’m from **Bangladesh**
 
-- 🔭 I’m currently working on <a href="https://github.com/samircd4/insta-clone">Instagram Clone Django Project</a>
+- 🔭 I’m currently working on <a href="https://github.com/samircd4/ecommerce-shopify">Multi vendors E-comm</a>
 
 - 🌱 I’m currently learning **Django and Scrapy**
 
