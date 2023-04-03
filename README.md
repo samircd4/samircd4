@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Test](Test) -->
 
-- 👨‍💻 All of my projects are available at [www.example.com](https://samirpythondevs.netlify.app)
+- 👨‍💻 All of my projects are available at [samirpythondevs](https://samirpythondevs.netlify.app)
 
 - 💬 Ask me about **Django, Python, Web Scraping**
 
